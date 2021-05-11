@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+#Fb::before{
+    content: "🔗";
+}
+#Gmail::before{
+    content: "📧";
+}
+#phones::before{
+    content: "📞";
+}
+table.Study{
+    border-collapse: collapse;
+    border: 2px solid;
+}
+table.Skills{
+    border: 2px solid;
+}
+.icon-star{
+    color:yellow;
+}
+
